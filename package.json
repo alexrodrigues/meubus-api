@@ -15,6 +15,7 @@
     "express": "^4.17.1",
     "express-boom": "^2.0.0",
     "mongodb": "^2.2.33",
+    "mysql2": "^3.11.0",
     "promise": "^8.0.3"
   }
 }
